@@ -57,10 +57,16 @@ try:
         print("\nStarting Drone!\n")
 
         sendmsg('command', 0)
+        sendmsg('battery?',8)
         sendmsg('takeoff',8)
         sendmsg('forward 100')
         sendmsg('ccw 90',8)
         sendmsg('forward 100')
+        sendmsg('ccw 90',8)
+        sendmsg('forward 100')
+        sendmsg('ccw 90',8)
+        sendmsg('forward 100')
+        sendmsg('ccw 90',8)
         sendmsg('land')
 
         print('\nGreat Flight!!!')
