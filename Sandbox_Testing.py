@@ -58,16 +58,12 @@ try:
 
         sendmsg('command', 0)
         sendmsg('battery?',8)
-        sendmsg('takeoff',8)
-        sendmsg('forward 100')
-        sendmsg('ccw 90',8)
-        sendmsg('forward 100')
-        sendmsg('ccw 90',8)
-        sendmsg('forward 100')
-        sendmsg('ccw 90',8)
-        sendmsg('forward 100')
-        sendmsg('ccw 90',8)
+        sendmsg('takeoff',)
+        sendmsg('flip f')
+        sendmsg('go x y z speed 500')
+        sendmsg('forward 500')
         sendmsg('land')
+        sendmsg('battery?', 6)
 
         print('\nGreat Flight!!!')
 
