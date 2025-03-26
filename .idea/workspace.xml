@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="9fa987be-f451-4358-ba31-138615c75263" name="Changes" comment="" />
+=======
+    <list default="true" id="50a8b464-0490-45ad-a480-2e3df675c6d3" name="Changes" comment="" />
+>>>>>>> Stashed changes
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,11 +20,16 @@
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
+<<<<<<< Updated upstream
   <component name="ProjectId" id="2udT2Kt1SDsmukUnIvnpT9kYASH" />
+=======
+  <component name="ProjectId" id="2uXvK1L3EyCajbZTbmXZw6TST20" />
+>>>>>>> Stashed changes
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< Updated upstream
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Tello_Competition.executor": "Run",
@@ -59,17 +68,40 @@
     <attachedChunks>
       <set>
         <option value="bundled-python-sdk-1b1018131e27-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.180" />
+=======
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Sandbox_Testing.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Sandbox__Testing&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/GLHS-/Desktop/Baarson - Gibbs/TelloEDUDrones_Spring&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-14705d77f0bb-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.25659.43" />
+>>>>>>> Stashed changes
       </set>
     </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< Updated upstream
       <changelist id="9fa987be-f451-4358-ba31-138615c75263" name="Changes" comment="" />
       <created>1742577243022</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1742577243022</updated>
+=======
+      <changelist id="50a8b464-0490-45ad-a480-2e3df675c6d3" name="Changes" comment="" />
+      <created>1742407667543</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742407667543</updated>
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>
