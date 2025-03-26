@@ -58,9 +58,21 @@ try:
 
         sendmsg('command', 0)
         sendmsg('takeoff')
+        #Commit Message: First Hoop - Stable
 
-        # Review the (SDK) Software Development Kit resource for Drone Commands
-        # Delete these comments before writing your program
+
+
+        #Commit Message: Second Hoop
+
+
+
+        #Commit Message: Third Hoop
+
+
+
+        #Commit Message: Final Hoop - Stable
+
+
 
         sendmsg('land')
 
