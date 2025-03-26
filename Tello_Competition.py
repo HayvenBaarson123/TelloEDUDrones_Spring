@@ -57,12 +57,14 @@ try:
         print("\nStarting Drone!\n")
 
         sendmsg('command', 0)
+        sendmsg('battery?')
         sendmsg('takeoff')
         #Commit Message: First Hoop - Stable
-
+        sendmsg('forward 175')
 
 
         #Commit Message: Second Hoop
+
 
 
 
@@ -75,6 +77,7 @@ try:
 
 
         sendmsg('land')
+        sendmsg('battery?')
 
         print('\nGreat Flight!!!')
 
