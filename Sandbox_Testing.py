@@ -58,10 +58,7 @@ try:
 
         sendmsg('command', 0)
         sendmsg('battery?',8)
-        sendmsg('takeoff',)
-        sendmsg('flip f')
-        sendmsg('go x y z speed 500')
-        sendmsg('forward 500')
+        sendmsg('takeoff')
         sendmsg('land')
         sendmsg('battery?', 6)
 
