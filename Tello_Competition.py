@@ -60,11 +60,11 @@ try:
         sendmsg('battery?')
         sendmsg('takeoff')
         #Commit Message: First Hoop - Stable
-        sendmsg('forward 175')
+        sendmsg('forward 215')
 
 
         #Commit Message: Second Hoop
-        sendmsg('go 150 0 40 100')
+        sendmsg('go 235 0 70 100')
 
 
 
