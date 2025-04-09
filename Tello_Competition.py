@@ -73,7 +73,7 @@ try:
         sendmsg('curve -155 -155 0 0 -290 0 60')
 
         #Commit Message: Final Hoop - Stable
-        sendmsg('go -230xx 0 -70 100')
+        sendmsg('go -230 0 -70 100')
 
         sendmsg('land')
         sendmsg('battery?')
